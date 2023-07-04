@@ -17,3 +17,6 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koukemo&layout=compact&show_icons=true&theme=gruvbox" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=koukemo&theme=gruvbox&show_icons=ture" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=koukemo&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
